@@ -1,6 +1,6 @@
 ## Slide 1
 
-![](https://media0.giphy.com/media/rncdcDDHCQaWI/200w.gif)
+![JUMP](https://media0.giphy.com/media/rncdcDDHCQaWI/200w.gif)
 
 * Bullet list
 * item 2
@@ -10,11 +10,14 @@ Make sure **all** (bold text surrounded by `** **`)
 
 *italics* (using one `* *` on either side of content)
 
-Note: 
+???
+notey note
 
 ---
 
 ## Slide 2
+
+![Comp](http://opensky.ucar.edu/islandora/object/imagegallery%3A1699/datastream/JPG/download)
 
 1. Numbered list item 1
 2. Nubered list item 2
